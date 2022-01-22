@@ -8,8 +8,8 @@
     <string name="action_settings">Web</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">AOS</string>
-    <string name="menu_slideshow">OXI engine</string>
+    <string name="menu_slideshow">Teaser</string>
 
     <string name="home_second">Home Second</string>
+    <string name="main_applitopia_info">Applitopia enables people without technical skills to manage data and collaborate easily</string>
 </resources>
